@@ -1,0 +1,6 @@
+part1: sound
+part2: vision
+part3: sound
+part4: vision
+part5: sound
+part6: vision
